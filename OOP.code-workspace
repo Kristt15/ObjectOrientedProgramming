@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Framework/modul-laravel-12"
+		}
+	],
+	"settings": {}
+}
