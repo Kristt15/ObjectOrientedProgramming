@@ -24,7 +24,6 @@ public class Tugas1 {
 
         Tugas1 program = new Tugas1();
 
-        // Memanggil method lewat objek
         program.tampilkanFibonacci(n);
     }
 }

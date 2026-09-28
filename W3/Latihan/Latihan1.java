@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Latihan1 {
 
     public int factorial(int n) {
-        int res = 1;
+        int res = 1; //reuslt ->awal, perkalian
         for (int i = 2; i <= n; i++) {
             res *= i;
         }

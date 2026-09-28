@@ -1,7 +1,7 @@
 public class Mobil { 
-private String merk; 
-private String warna; 
-private String tipe; 
+    private String merk; 
+    private String warna; 
+    private String tipe; 
     private int kapasitasMesin; 
     private int kapasitasPenumpang; 
  
