@@ -1,7 +1,6 @@
 package W7.Latihan;
 
 import perbankan.*;
-import  
 
 public class TesLatihan { 
     public static void main(String[] args) { 
