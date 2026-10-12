@@ -1,7 +1,7 @@
 package W7.perbankan;
 
 public class Tabungan {
-    private int saldo;
+    protected int saldo;
 
     public Tabungan(int saldo){
         this.saldo = saldo;

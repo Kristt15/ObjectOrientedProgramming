@@ -1,0 +1,5 @@
+class HumptyDumpty
+{
+void myMethod() {}
+}
+
