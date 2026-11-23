@@ -1,6 +1,6 @@
 package model;
 
-public abstract class Pengguna {
+public class Pengguna {
     // atribut
     private String idPengguna;
     private String namaLengkap;
